@@ -2,8 +2,8 @@ package com.mycompany.projectphase11;
 
 /*
  * Project Name: Quiz Application
- * Author: [Your Name]
- * Date: [Insert Date]
+ * Author: Dorris tazi
+ * Date: 12/9/2024
  * Description: This class represents a question in the quiz. It includes
  * attributes for the question text, answer options, and the correct answer.
  */
