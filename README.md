@@ -20,6 +20,11 @@ The Online Quiz Application is a web-based platform designed for individuals to 
 - **Database**: MongoDB for storing user data, quizzes, and scores.
 - **Authentication**: JSON Web Tokens (JWT) for secure login.
 
+## Collaborators
+- **dorist12**: Dorris Tazi
+- **benanderson0522**: Ben Anderson
+- **The-Arch1vist**: Logan Young
+
 ## Installation
 1. Clone the repository:
    ```bash
